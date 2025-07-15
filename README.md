@@ -60,12 +60,10 @@ Click Check Now → It will tell you: 🚫 FAKE or ✅ REAL
 Nagalakshmi D
 📍 Tiruchirappalli, Tamil Nadu
 📧 nagadhamo123@gmail.com
-🔗 LinkedIn
+🔗 LinkedIn https://www.linkedin.com/in/nagalakshmi-d-b4b943341/
 
 ⭐ If You Liked It...
 Please ⭐ star the repo and share feedback!
 Connect with me for collaborations or fresher roles in software, AI/ML, or web development.
 
-yaml
-Copy
-Edit
+
